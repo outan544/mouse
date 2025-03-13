@@ -1,3 +1,5 @@
+// <![CDATA[
+
 const button = document.getElementById('toggleMenu');
   const popup = document.getElementById('popupMenu');
 
@@ -74,3 +76,5 @@ const button = document.getElementById('toggleMenu');
       popup.style.display = 'none';
     }
   });
+
+// ]]>
