@@ -17,10 +17,9 @@
         <td><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIAnfuOX-uuVX7FbnqWJYLAhAc3A-LA_5BbJ1RW6d6lXj5VD9D5AvHvr6v8alVC6vVCfyNFreZTR2F-snQJ7CTxIZ9UyWmE4xUYO0abWYP0eNZNyyJ65FH1hagLrQh0vHMk64CS69btVF74VdI34gSZXaiYsKoKeZ-lQTiCPmuL5TnMgg3zPozxQ13VGs/s1600/emoji_smile.png'/><br/>:smile</td>
     </tr>
 </table>
-    </li>
-  </ul>
-</div>
-
 <p>Untuk berkomentar dengan gambar, ketik tanda *** diikuti url gambar.</p>
 
 <p>contoh: ***http://example.com/image.jpg</p>
+    </li>
+  </ul>
+</div>
