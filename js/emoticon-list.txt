@@ -1,5 +1,5 @@
 <div class="button-container">
-  <button id="toggleMenu">View Emoticons</button>
+  <button id="toggleMenu" class="button1">View Emoticons</button>
 </div>
 
 <div id="popupMenu" class="popup-menu">
